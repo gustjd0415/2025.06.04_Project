@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C\u002B\u002B\\2025.06.04\\dasdf\\",
+  "WorkspaceRootPath": "C:\\Users\\gustj\\Documents\\GitHub\\2025.06.04_Project\\dasdf\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64AA51B2-F2DB-4188-BCFC-91832A87A998}|dasdf\\dasdf.vcxproj|D:\\C\u002B\u002B\\2025.06.04\\dasdf\\dasdf\\dasdf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{64AA51B2-F2DB-4188-BCFC-91832A87A998}|dasdf\\dasdf.vcxproj|C:\\Users\\gustj\\Documents\\GitHub\\2025.06.04_Project\\dasdf\\dasdf\\dasdf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{64AA51B2-F2DB-4188-BCFC-91832A87A998}|dasdf\\dasdf.vcxproj|solutionrelative:dasdf\\dasdf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "dasdf.cpp",
-              "DocumentMoniker": "D:\\C\u002B\u002B\\2025.06.04\\dasdf\\dasdf\\dasdf.cpp",
+              "DocumentMoniker": "C:\\Users\\gustj\\Documents\\GitHub\\2025.06.04_Project\\dasdf\\dasdf\\dasdf.cpp",
               "RelativeDocumentMoniker": "dasdf\\dasdf.cpp",
-              "ToolTip": "D:\\C\u002B\u002B\\2025.06.04\\dasdf\\dasdf\\dasdf.cpp",
+              "ToolTip": "C:\\Users\\gustj\\Documents\\GitHub\\2025.06.04_Project\\dasdf\\dasdf\\dasdf.cpp",
               "RelativeToolTip": "dasdf\\dasdf.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-04T04:58:16.165Z",
               "EditorCaption": ""
